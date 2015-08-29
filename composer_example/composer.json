@@ -1,0 +1,13 @@
+{
+    "name": "drupal/composer_example",
+    "description": "Example of using PHP Composer to build your module on 3rd party libraries.",
+    "authors": [
+        {
+            "name": "Pomin Wu",
+            "email": "pomin5@gmail.com"
+        }
+    ],
+    "require": {
+        "capgemini/drupal_doctrine_cache": "^0.0.2"
+    }
+}
