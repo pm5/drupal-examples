@@ -1,0 +1,4 @@
+name = RESTful Example
+description = Example of building REST API endpoints with RESTful module
+core = 7.x
+dependencies[] = restful
